@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "左右盲",
   "base_artist": "ヨルシカ",
-  "createdAt": "2025-12-11T15:39:58.910087Z",
+  "createdAt": "2026-03-28T16:04:48.249029Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -17,8 +17,8 @@
       "source": "lrclib",
       "title": "左右盲",
       "artist": "ヨルシカ",
-      "has_synced": true,
-      "path": "select/02_左右盲_ヨルシカ.lrc"
+      "has_synced": false,
+      "path": "select/02_左右盲_ヨルシカ.txt"
     },
     {
       "id": "lrclib_3",
@@ -33,8 +33,8 @@
       "source": "lrclib",
       "title": "左右盲",
       "artist": "ヨルシカ",
-      "has_synced": true,
-      "path": "select/04_左右盲_ヨルシカ.lrc"
+      "has_synced": false,
+      "path": "select/04_左右盲_ヨルシカ.txt"
     },
     {
       "id": "lrclib_5",
@@ -87,10 +87,18 @@
     {
       "id": "lrclib_11",
       "source": "lrclib",
+      "title": "左右盲",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/11_左右盲_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
       "title": "左右盲 (Paused)",
       "artist": "ヨルシカ",
       "has_synced": true,
-      "path": "select/11_左右盲_(Paused)_ヨルシカ.lrc"
+      "path": "select/12_左右盲_(Paused)_ヨルシカ.lrc"
     },
     {
       "id": "petitlyrics_1",
@@ -99,6 +107,15 @@
       "artist": "ヨルシカ",
       "has_synced": false,
       "path": "select/pl_01_左右盲_ヨルシカ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "左右盲",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/localdb_01_左右盲_ヨルシカ.lrc",
+      "repo_name": "1IlTeOMCNJU"
     }
   ]
 }
